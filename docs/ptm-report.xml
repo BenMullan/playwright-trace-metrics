@@ -1,0 +1,419 @@
+<?xml version="1.0"?>
+<playwrightTraceMetricsReport>
+    <aggregatedTraceMetrics numTraceZipsProcessed="23" mostFrequentConsoleError="Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set." totalConsoleErrors="24" totalPlaywrightStepErrors="1" totalScreenshotsTaken="941" totalNetworkRequestsMade="1548" totalSuccessfulNetworkRequests="1250" meanTraceDurationMs="7127.71" minTraceDurationMs="4642.65" maxTraceDurationMs="30306.42" meanNumPlaywrightStepErrors="0.04" minNumPlaywrightStepErrors="0" maxNumPlaywrightStepErrors="1"/>
+    <individualTraceMetrics>
+        <singleZipMetrics traceZipFileName="pwt (1).zip" traceZipFileFullPath="C:\Users\--sample-playwright-traces--success\pwt (1).zip" totalTraceDurationMs="5412.72" navigationUrl="https://someWebsiteHere.co.uk/login" consoleErrors="Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set." playwrightStepErrors="" numScreenshotsTaken="41" numTotalTraceEvents="159" numNetworkRequestsMade="69" numSuccessfulNetworkRequests="58"/>
+        <singleZipMetrics traceZipFileName="pwt (10).zip" traceZipFileFullPath="C:\Users\--sample-playwright-traces--success\pwt (10).zip" totalTraceDurationMs="5938.16" navigationUrl="https://someWebsiteHere.co.uk/login" consoleErrors="Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set." playwrightStepErrors="" numScreenshotsTaken="39" numTotalTraceEvents="159" numNetworkRequestsMade="73" numSuccessfulNetworkRequests="57"/>
+        <singleZipMetrics traceZipFileName="pwt (11).zip" traceZipFileFullPath="C:\Users\--sample-playwright-traces--success\pwt (11).zip" totalTraceDurationMs="6798.52" navigationUrl="https://someWebsiteHere.co.uk/login" consoleErrors="Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set." playwrightStepErrors="" numScreenshotsTaken="48" numTotalTraceEvents="169" numNetworkRequestsMade="72" numSuccessfulNetworkRequests="62"/>
+        <singleZipMetrics traceZipFileName="pwt (12).zip" traceZipFileFullPath="C:\Users\--sample-playwright-traces--success\pwt (12).zip" totalTraceDurationMs="6585.06" navigationUrl="https://someWebsiteHere.co.uk/login" consoleErrors="Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set." playwrightStepErrors="" numScreenshotsTaken="45" numTotalTraceEvents="166" numNetworkRequestsMade="70" numSuccessfulNetworkRequests="55"/>
+        <singleZipMetrics traceZipFileName="pwt (13).zip" traceZipFileFullPath="C:\Users\--sample-playwright-traces--success\pwt (13).zip" totalTraceDurationMs="7562.67" navigationUrl="https://someWebsiteHere.co.uk/login" consoleErrors="Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set." playwrightStepErrors="" numScreenshotsTaken="50" numTotalTraceEvents="171" numNetworkRequestsMade="78" numSuccessfulNetworkRequests="66"/>
+        <singleZipMetrics traceZipFileName="pwt (14).zip" traceZipFileFullPath="C:\Users\--sample-playwright-traces--success\pwt (14).zip" totalTraceDurationMs="5939.92" navigationUrl="https://someWebsiteHere.co.uk/login" consoleErrors="Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set." playwrightStepErrors="" numScreenshotsTaken="40" numTotalTraceEvents="150" numNetworkRequestsMade="71" numSuccessfulNetworkRequests="56"/>
+        <singleZipMetrics traceZipFileName="pwt (15).zip" traceZipFileFullPath="C:\Users\--sample-playwright-traces--success\pwt (15).zip" totalTraceDurationMs="4642.65" navigationUrl="https://someWebsiteHere.co.uk/login" consoleErrors="Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set." playwrightStepErrors="" numScreenshotsTaken="40" numTotalTraceEvents="139" numNetworkRequestsMade="70" numSuccessfulNetworkRequests="56"/>
+        <singleZipMetrics traceZipFileName="pwt (16).zip" traceZipFileFullPath="C:\Users\--sample-playwright-traces--success\pwt (16).zip" totalTraceDurationMs="5249.44" navigationUrl="https://someWebsiteHere.co.uk/login" consoleErrors="Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set." playwrightStepErrors="" numScreenshotsTaken="43" numTotalTraceEvents="142" numNetworkRequestsMade="61" numSuccessfulNetworkRequests="51"/>
+        <singleZipMetrics traceZipFileName="pwt (17).zip" traceZipFileFullPath="C:\Users\--sample-playwright-traces--success\pwt (17).zip" totalTraceDurationMs="5415.24" navigationUrl="https://someWebsiteHere.co.uk/login" consoleErrors="Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set." playwrightStepErrors="" numScreenshotsTaken="42" numTotalTraceEvents="171" numNetworkRequestsMade="70" numSuccessfulNetworkRequests="56"/>
+        <singleZipMetrics traceZipFileName="pwt (18).zip" traceZipFileFullPath="C:\Users\--sample-playwright-traces--success\pwt (18).zip" totalTraceDurationMs="7836.3" navigationUrl="https://someWebsiteHere.co.uk/login" consoleErrors="Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set." playwrightStepErrors="" numScreenshotsTaken="50" numTotalTraceEvents="166" numNetworkRequestsMade="76" numSuccessfulNetworkRequests="57"/>
+        <singleZipMetrics traceZipFileName="pwt (19).zip" traceZipFileFullPath="C:\Users\--sample-playwright-traces--success\pwt (19).zip" totalTraceDurationMs="5744.95" navigationUrl="https://someWebsiteHere.co.uk/login" consoleErrors="Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set." playwrightStepErrors="" numScreenshotsTaken="44" numTotalTraceEvents="142" numNetworkRequestsMade="70" numSuccessfulNetworkRequests="56"/>
+        <singleZipMetrics traceZipFileName="pwt (2).zip" traceZipFileFullPath="C:\Users\--sample-playwright-traces--success\pwt (2).zip" totalTraceDurationMs="7201.14" navigationUrl="https://someWebsiteHere.co.uk/login" consoleErrors="Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set." playwrightStepErrors="" numScreenshotsTaken="47" numTotalTraceEvents="157" numNetworkRequestsMade="76" numSuccessfulNetworkRequests="64"/>
+        <singleZipMetrics traceZipFileName="pwt (20).zip" traceZipFileFullPath="C:\Users\--sample-playwright-traces--success\pwt (20).zip" totalTraceDurationMs="5553.39" navigationUrl="https://someWebsiteHere.co.uk/login" consoleErrors="Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set." playwrightStepErrors="" numScreenshotsTaken="41" numTotalTraceEvents="151" numNetworkRequestsMade="71" numSuccessfulNetworkRequests="58"/>
+        <singleZipMetrics traceZipFileName="pwt (21).zip" traceZipFileFullPath="C:\Users\--sample-playwright-traces--success\pwt (21).zip" totalTraceDurationMs="5338.47" navigationUrl="https://someWebsiteHere.co.uk/login" consoleErrors="Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set." playwrightStepErrors="" numScreenshotsTaken="41" numTotalTraceEvents="149" numNetworkRequestsMade="68" numSuccessfulNetworkRequests="57"/>
+        <singleZipMetrics traceZipFileName="pwt (3).zip" traceZipFileFullPath="C:\Users\--sample-playwright-traces--success\pwt (3).zip" totalTraceDurationMs="5369.5" navigationUrl="https://someWebsiteHere.co.uk/login" consoleErrors="Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set." playwrightStepErrors="" numScreenshotsTaken="36" numTotalTraceEvents="146" numNetworkRequestsMade="67" numSuccessfulNetworkRequests="54"/>
+        <singleZipMetrics traceZipFileName="pwt (4).zip" traceZipFileFullPath="C:\Users\--sample-playwright-traces--success\pwt (4).zip" totalTraceDurationMs="6320.25" navigationUrl="https://someWebsiteHere.co.uk/login" consoleErrors="Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set." playwrightStepErrors="" numScreenshotsTaken="37" numTotalTraceEvents="158" numNetworkRequestsMade="73" numSuccessfulNetworkRequests="58"/>
+        <singleZipMetrics traceZipFileName="pwt (5).zip" traceZipFileFullPath="C:\Users\--sample-playwright-traces--success\pwt (5).zip" totalTraceDurationMs="10221.53" navigationUrl="https://someWebsiteHere.co.uk/login" consoleErrors="Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set." playwrightStepErrors="" numScreenshotsTaken="46" numTotalTraceEvents="168" numNetworkRequestsMade="76" numSuccessfulNetworkRequests="62"/>
+        <singleZipMetrics traceZipFileName="pwt (6).zip" traceZipFileFullPath="C:\Users\--sample-playwright-traces--success\pwt (6).zip" totalTraceDurationMs="6279.71" navigationUrl="https://someWebsiteHere.co.uk/login" consoleErrors="Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set." playwrightStepErrors="" numScreenshotsTaken="45" numTotalTraceEvents="166" numNetworkRequestsMade="69" numSuccessfulNetworkRequests="56"/>
+        <singleZipMetrics traceZipFileName="pwt (7).zip" traceZipFileFullPath="C:\Users\--sample-playwright-traces--success\pwt (7).zip" totalTraceDurationMs="4708.44" navigationUrl="https://someWebsiteHere.co.uk/login" consoleErrors="Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set." playwrightStepErrors="" numScreenshotsTaken="38" numTotalTraceEvents="135" numNetworkRequestsMade="59" numSuccessfulNetworkRequests="48"/>
+        <singleZipMetrics traceZipFileName="pwt (8).zip" traceZipFileFullPath="C:\Users\--sample-playwright-traces--success\pwt (8).zip" totalTraceDurationMs="5029.61" navigationUrl="https://someWebsiteHere.co.uk/login" consoleErrors="Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set." playwrightStepErrors="" numScreenshotsTaken="43" numTotalTraceEvents="165" numNetworkRequestsMade="70" numSuccessfulNetworkRequests="54"/>
+        <singleZipMetrics traceZipFileName="pwt (9).zip" traceZipFileFullPath="C:\Users\--sample-playwright-traces--success\pwt (9).zip" totalTraceDurationMs="5113.8" navigationUrl="https://someWebsiteHere.co.uk/login" consoleErrors="Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set." playwrightStepErrors="" numScreenshotsTaken="47" numTotalTraceEvents="168" numNetworkRequestsMade="71" numSuccessfulNetworkRequests="55"/>
+        <singleZipMetrics traceZipFileName="_fail_ex.zip" traceZipFileFullPath="C:\Users\--sample-playwright-traces--success\_fail_ex.zip" totalTraceDurationMs="30306.42" navigationUrl="https://someWebsiteHere.co.uk/login" consoleErrors="Failed to load resource: the server responded with a status of 403 (),Failed to load resource: the server responded with a status of 403 ()" playwrightStepErrors="Timeout 30000ms exceeded." numScreenshotsTaken="2" numTotalTraceEvents="22" numNetworkRequestsMade="1" numSuccessfulNetworkRequests="0"/>
+        <singleZipMetrics traceZipFileName="_one.zip" traceZipFileFullPath="C:\Users\--sample-playwright-traces--success\_one.zip" totalTraceDurationMs="5369.5" navigationUrl="https://someWebsiteHere.co.uk/login" consoleErrors="Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set." playwrightStepErrors="" numScreenshotsTaken="36" numTotalTraceEvents="146" numNetworkRequestsMade="67" numSuccessfulNetworkRequests="54"/>
+    </individualTraceMetrics>
+    <svgCharts>
+        <svgChart>
+            <chartTitle title="trace durations' trend"/>
+            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="723" height="518" viewBox="0 0 723 518">
+                <rect width="723" height="518" fill="white"/>
+                <g fill="none" stroke-miterlimit="10" transform="translate(118,14)">
+                    <g class="mark-group role-frame root" role="graphics-object" aria-roledescription="group mark container">
+                        <g transform="translate(0,0)">
+                            <path class="background" aria-hidden="true" d="M0.5,0.5h600v300h-600Z" stroke="#ddd"/>
+                            <g>
+                                <g class="mark-group role-axis" aria-hidden="true">
+                                    <g transform="translate(0.5,0.5)">
+                                        <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none"/>
+                                        <g>
+                                            <g class="mark-rule role-axis-grid" pointer-events="none">
+                                                <line transform="translate(0,300)" x2="600" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(0,257)" x2="600" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(0,214)" x2="600" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(0,171)" x2="600" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(0,129)" x2="600" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(0,86)" x2="600" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(0,43)" x2="600" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(0,0)" x2="600" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                                            </g>
+                                        </g>
+                                        <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none"/>
+                                    </g>
+                                </g>
+                                <g class="mark-group role-axis" role="graphics-symbol" aria-roledescription="axis" aria-label="X-axis titled 'trace filename' for a discrete scale with 23 values: pwt (1).zip, pwt (10).zip, pwt (11).zip, pwt (12).zip, pwt (13).zip, ending with _one.zip">
+                                    <g transform="translate(0.5,300.5)">
+                                        <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none"/>
+                                        <g>
+                                            <g class="mark-rule role-axis-tick" pointer-events="none">
+                                                <line transform="translate(13,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(39,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(65,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(91,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(117,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(143,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(169,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(195,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(221,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(247,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(273,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(300,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(326,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(352,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(378,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(404,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(430,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(456,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(482,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(508,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(534,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(560,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(586,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                                            </g>
+                                            <g class="mark-text role-axis-label" pointer-events="none">
+                                                <text text-anchor="end" transform="translate(12.543478260869604,7) rotate(270) translate(0,5)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">pwt (1).zip</text>
+                                                <text text-anchor="end" transform="translate(38.63043478260873,7) rotate(270) translate(0,5)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">pwt (10).zip</text>
+                                                <text text-anchor="end" transform="translate(64.71739130434786,7) rotate(270) translate(0,5)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">pwt (11).zip</text>
+                                                <text text-anchor="end" transform="translate(90.804347826087,7) rotate(270) translate(0,5)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">pwt (12).zip</text>
+                                                <text text-anchor="end" transform="translate(116.89130434782612,7) rotate(270) translate(0,5)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">pwt (13).zip</text>
+                                                <text text-anchor="end" transform="translate(142.97826086956525,7) rotate(270) translate(0,5)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">pwt (14).zip</text>
+                                                <text text-anchor="end" transform="translate(169.06521739130437,7) rotate(270) translate(0,5)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">pwt (15).zip</text>
+                                                <text text-anchor="end" transform="translate(195.1521739130435,7) rotate(270) translate(0,5)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">pwt (16).zip</text>
+                                                <text text-anchor="end" transform="translate(221.23913043478262,7) rotate(270) translate(0,5)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">pwt (17).zip</text>
+                                                <text text-anchor="end" transform="translate(247.32608695652175,7) rotate(270) translate(0,5)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">pwt (18).zip</text>
+                                                <text text-anchor="end" transform="translate(273.41304347826093,7) rotate(270) translate(0,5)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">pwt (19).zip</text>
+                                                <text text-anchor="end" transform="translate(299.50000000000006,7) rotate(270) translate(0,5)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">pwt (2).zip</text>
+                                                <text text-anchor="end" transform="translate(325.5869565217392,7) rotate(270) translate(0,5)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">pwt (20).zip</text>
+                                                <text text-anchor="end" transform="translate(351.6739130434783,7) rotate(270) translate(0,5)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">pwt (21).zip</text>
+                                                <text text-anchor="end" transform="translate(377.76086956521743,7) rotate(270) translate(0,5)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">pwt (3).zip</text>
+                                                <text text-anchor="end" transform="translate(403.84782608695656,7) rotate(270) translate(0,5)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">pwt (4).zip</text>
+                                                <text text-anchor="end" transform="translate(429.9347826086957,7) rotate(270) translate(0,5)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">pwt (5).zip</text>
+                                                <text text-anchor="end" transform="translate(456.0217391304348,7) rotate(270) translate(0,5)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">pwt (6).zip</text>
+                                                <text text-anchor="end" transform="translate(482.10869565217394,7) rotate(270) translate(0,5)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">pwt (7).zip</text>
+                                                <text text-anchor="end" transform="translate(508.19565217391306,7) rotate(270) translate(0,5)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">pwt (8).zip</text>
+                                                <text text-anchor="end" transform="translate(534.2826086956522,7) rotate(270) translate(0,5)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">pwt (9).zip</text>
+                                                <text text-anchor="end" transform="translate(560.3695652173914,7) rotate(270) translate(0,5)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">_fail_ex.zip</text>
+                                                <text text-anchor="end" transform="translate(586.4565217391305,7) rotate(270) translate(0,5)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">_one.zip</text>
+                                            </g>
+                                            <g class="mark-rule role-axis-domain" pointer-events="none">
+                                                <line transform="translate(0,0)" x2="600" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                                            </g>
+                                            <g class="mark-text role-axis-title" pointer-events="none">
+                                                <text text-anchor="middle" transform="translate(300,196)" font-family="Verdana" font-size="16px" font-weight="bold" fill="#000" opacity="1">trace filename</text>
+                                            </g>
+                                        </g>
+                                        <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none"/>
+                                    </g>
+                                </g>
+                                <g class="mark-group role-axis" role="graphics-symbol" aria-roledescription="axis" aria-label="Y-axis titled 'exec duration (ms)' for a linear scale with values from 0 to 35,000">
+                                    <g transform="translate(0.5,0.5)">
+                                        <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none"/>
+                                        <g>
+                                            <g class="mark-rule role-axis-tick" pointer-events="none">
+                                                <line transform="translate(0,300)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(0,257)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(0,214)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(0,171)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(0,129)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(0,86)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(0,43)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(0,0)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                                            </g>
+                                            <g class="mark-text role-axis-label" pointer-events="none">
+                                                <text text-anchor="end" transform="translate(-7,305)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">0</text>
+                                                <text text-anchor="end" transform="translate(-7,262.14285714285717)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">5,000</text>
+                                                <text text-anchor="end" transform="translate(-7,219.28571428571428)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">10,000</text>
+                                                <text text-anchor="end" transform="translate(-7,176.42857142857142)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">15,000</text>
+                                                <text text-anchor="end" transform="translate(-7,133.57142857142858)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">20,000</text>
+                                                <text text-anchor="end" transform="translate(-7,90.71428571428571)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">25,000</text>
+                                                <text text-anchor="end" transform="translate(-7,47.85714285714287)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">30,000</text>
+                                                <text text-anchor="end" transform="translate(-7,5)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">35,000</text>
+                                            </g>
+                                            <g class="mark-rule role-axis-domain" pointer-events="none">
+                                                <line transform="translate(0,300)" x2="0" y2="-300" stroke="#888" stroke-width="1" opacity="1"/>
+                                            </g>
+                                            <g class="mark-text role-axis-title" pointer-events="none">
+                                                <text text-anchor="middle" transform="translate(-97,150) rotate(-90) translate(0,-3)" font-family="Verdana" font-size="16px" font-weight="bold" fill="#000" opacity="1">exec duration (ms)</text>
+                                            </g>
+                                        </g>
+                                        <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none"/>
+                                    </g>
+                                </g>
+                                <g class="mark-rect role-mark marks" role="graphics-object" aria-roledescription="rect mark container">
+                                    <path aria-label="trace filename: pwt (1).zip; exec duration (ms): 5412.724; traceZipFileName: pwt (1).zip; totalTraceDurationMs: 5412.724" role="graphics-symbol" aria-roledescription="bar" d="M1.304347826086996,253.60522285714285h23.478260869565215v46.39477714285715h-23.478260869565215Z" fill="#0366d6"/>
+                                    <path aria-label="trace filename: pwt (10).zip; exec duration (ms): 5938.16; traceZipFileName: pwt (10).zip; totalTraceDurationMs: 5938.16" role="graphics-symbol" aria-roledescription="bar" d="M27.391304347826125,249.1014857142857h23.478260869565215v50.8985142857143h-23.478260869565215Z" fill="#0366d6"/>
+                                    <path aria-label="trace filename: pwt (11).zip; exec duration (ms): 6798.517; traceZipFileName: pwt (11).zip; totalTraceDurationMs: 6798.517000000001" role="graphics-symbol" aria-roledescription="bar" d="M53.478260869565254,241.72699714285716h23.478260869565215v58.27300285714284h-23.478260869565215Z" fill="#0366d6"/>
+                                    <path aria-label="trace filename: pwt (12).zip; exec duration (ms): 6585.055; traceZipFileName: pwt (12).zip; totalTraceDurationMs: 6585.055" role="graphics-symbol" aria-roledescription="bar" d="M79.56521739130439,243.55667142857143h23.478260869565215v56.443328571428566h-23.478260869565215Z" fill="#0366d6"/>
+                                    <path aria-label="trace filename: pwt (13).zip; exec duration (ms): 7562.67; traceZipFileName: pwt (13).zip; totalTraceDurationMs: 7562.67" role="graphics-symbol" aria-roledescription="bar" d="M105.65217391304351,235.17711428571428h23.478260869565215v64.82288571428572h-23.478260869565215Z" fill="#0366d6"/>
+                                    <path aria-label="trace filename: pwt (14).zip; exec duration (ms): 5939.916; traceZipFileName: pwt (14).zip; totalTraceDurationMs: 5939.916" role="graphics-symbol" aria-roledescription="bar" d="M131.73913043478265,249.08643428571426h23.478260869565215v50.91356571428574h-23.478260869565215Z" fill="#0366d6"/>
+                                    <path aria-label="trace filename: pwt (15).zip; exec duration (ms): 4642.651; traceZipFileName: pwt (15).zip; totalTraceDurationMs: 4642.651000000001" role="graphics-symbol" aria-roledescription="bar" d="M157.82608695652178,260.2058485714286h23.478260869565215v39.79415142857141h-23.478260869565215Z" fill="#0366d6"/>
+                                    <path aria-label="trace filename: pwt (16).zip; exec duration (ms): 5249.442; traceZipFileName: pwt (16).zip; totalTraceDurationMs: 5249.442" role="graphics-symbol" aria-roledescription="bar" d="M183.9130434782609,255.00478285714286h23.478260869565215v44.99521714285714h-23.478260869565215Z" fill="#0366d6"/>
+                                    <path aria-label="trace filename: pwt (17).zip; exec duration (ms): 5415.235; traceZipFileName: pwt (17).zip; totalTraceDurationMs: 5415.235000000001" role="graphics-symbol" aria-roledescription="bar" d="M210.00000000000003,253.5837h23.478260869565215v46.41630000000001h-23.478260869565215Z" fill="#0366d6"/>
+                                    <path aria-label="trace filename: pwt (18).zip; exec duration (ms): 7836.3; traceZipFileName: pwt (18).zip; totalTraceDurationMs: 7836.300000000001" role="graphics-symbol" aria-roledescription="bar" d="M236.08695652173915,232.8317142857143h23.478260869565215v67.1682857142857h-23.478260869565215Z" fill="#0366d6"/>
+                                    <path aria-label="trace filename: pwt (19).zip; exec duration (ms): 5744.949; traceZipFileName: pwt (19).zip; totalTraceDurationMs: 5744.949" role="graphics-symbol" aria-roledescription="bar" d="M262.1739130434783,250.75758h23.478260869565215v49.24242000000001h-23.478260869565215Z" fill="#0366d6"/>
+                                    <path aria-label="trace filename: pwt (2).zip; exec duration (ms): 7201.139; traceZipFileName: pwt (2).zip; totalTraceDurationMs: 7201.139000000001" role="graphics-symbol" aria-roledescription="bar" d="M288.26086956521743,238.27595142857143h23.478260869565215v61.72404857142857h-23.478260869565215Z" fill="#0366d6"/>
+                                    <path aria-label="trace filename: pwt (20).zip; exec duration (ms): 5553.394; traceZipFileName: pwt (20).zip; totalTraceDurationMs: 5553.393999999999" role="graphics-symbol" aria-roledescription="bar" d="M314.34782608695656,252.39947999999998h23.478260869565215v47.60052000000002h-23.478260869565215Z" fill="#0366d6"/>
+                                    <path aria-label="trace filename: pwt (21).zip; exec duration (ms): 5338.472; traceZipFileName: pwt (21).zip; totalTraceDurationMs: 5338.472" role="graphics-symbol" aria-roledescription="bar" d="M340.4347826086957,254.24166857142856h23.478260869565215v45.75833142857144h-23.478260869565215Z" fill="#0366d6"/>
+                                    <path aria-label="trace filename: pwt (3).zip; exec duration (ms): 5369.496; traceZipFileName: pwt (3).zip; totalTraceDurationMs: 5369.496000000001" role="graphics-symbol" aria-roledescription="bar" d="M366.5217391304348,253.97574857142854h23.478260869565215v46.02425142857146h-23.478260869565215Z" fill="#0366d6"/>
+                                    <path aria-label="trace filename: pwt (4).zip; exec duration (ms): 6320.249; traceZipFileName: pwt (4).zip; totalTraceDurationMs: 6320.249" role="graphics-symbol" aria-roledescription="bar" d="M392.60869565217394,245.82643714285715h23.478260869565215v54.173562857142855h-23.478260869565215Z" fill="#0366d6"/>
+                                    <path aria-label="trace filename: pwt (5).zip; exec duration (ms): 10221.525; traceZipFileName: pwt (5).zip; totalTraceDurationMs: 10221.525000000001" role="graphics-symbol" aria-roledescription="bar" d="M418.69565217391306,212.38692857142857h23.478260869565215v87.61307142857143h-23.478260869565215Z" fill="#0366d6"/>
+                                    <path aria-label="trace filename: pwt (6).zip; exec duration (ms): 6279.714; traceZipFileName: pwt (6).zip; totalTraceDurationMs: 6279.714" role="graphics-symbol" aria-roledescription="bar" d="M444.7826086956522,246.17388h23.478260869565215v53.82612h-23.478260869565215Z" fill="#0366d6"/>
+                                    <path aria-label="trace filename: pwt (7).zip; exec duration (ms): 4708.444; traceZipFileName: pwt (7).zip; totalTraceDurationMs: 4708.444" role="graphics-symbol" aria-roledescription="bar" d="M470.8695652173913,259.64190857142853h23.478260869565215v40.35809142857147h-23.478260869565215Z" fill="#0366d6"/>
+                                    <path aria-label="trace filename: pwt (8).zip; exec duration (ms): 5029.61; traceZipFileName: pwt (8).zip; totalTraceDurationMs: 5029.61" role="graphics-symbol" aria-roledescription="bar" d="M496.95652173913044,256.88905714285715h23.478260869565215v43.110942857142845h-23.478260869565215Z" fill="#0366d6"/>
+                                    <path aria-label="trace filename: pwt (9).zip; exec duration (ms): 5113.799; traceZipFileName: pwt (9).zip; totalTraceDurationMs: 5113.799" role="graphics-symbol" aria-roledescription="bar" d="M523.0434782608696,256.1674371428571h23.478260869565215v43.832562857142875h-23.478260869565215Z" fill="#0366d6"/>
+                                    <path aria-label="trace filename: _fail_ex.zip; exec duration (ms): 30306.424; traceZipFileName: _fail_ex.zip; totalTraceDurationMs: 30306.424000000003" role="graphics-symbol" aria-roledescription="bar" d="M549.1304347826087,40.23065142857142h23.478260869565215v259.76934857142857h-23.478260869565215Z" fill="#0366d6"/>
+                                    <path aria-label="trace filename: _one.zip; exec duration (ms): 5369.496; traceZipFileName: _one.zip; totalTraceDurationMs: 5369.496000000001" role="graphics-symbol" aria-roledescription="bar" d="M575.2173913043479,253.97574857142854h23.478260869565215v46.02425142857146h-23.478260869565215Z" fill="#0366d6"/>
+                                </g>
+                            </g>
+                            <path class="foreground" aria-hidden="true" d="" display="none"/>
+                        </g>
+                    </g>
+                </g>
+            </svg>
+        </svgChart>
+        <svgChart>
+            <chartTitle title="network requests' success rate"/>
+            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="274" height="160" viewBox="0 0 274 160">
+                <rect width="274" height="160" fill="white"/>
+                <g fill="none" stroke-miterlimit="10" transform="translate(5,5)">
+                    <g class="mark-group role-frame root" role="graphics-object" aria-roledescription="group mark container">
+                        <g transform="translate(0,0)">
+                            <path class="background" aria-hidden="true" d="M0,0h150v150h-150Z"/>
+                            <g>
+                                <g class="mark-arc role-mark marks" role="graphics-object" aria-roledescription="arc mark container">
+                                    <path aria-label="value: 1250; category: successful" role="graphics-symbol" aria-roledescription="arc mark" transform="translate(75,75)" d="M0,-70A70,70,0,1,0,65.482,-24.741L32.741,-12.37A35,35,0,1,1,0,-35Z" fill="#28a745"/>
+                                    <path aria-label="value: 298; category: failed" role="graphics-symbol" aria-roledescription="arc mark" transform="translate(75,75)" d="M65.482,-24.741A70,70,0,0,0,0,-70L0,-35A35,35,0,0,1,32.741,-12.37Z" fill="#dc3545"/>
+                                </g>
+                                <g class="mark-group role-legend" role="graphics-symbol" aria-roledescription="legend" aria-label="Symbol legend titled 'category' for fill color with 2 values: successful, failed">
+                                    <g transform="translate(168,0)">
+                                        <path class="background" aria-hidden="true" d="M0,0h96v40h-96Z" pointer-events="none"/>
+                                        <g>
+                                            <g class="mark-group role-legend-entry">
+                                                <g transform="translate(0,16)">
+                                                    <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none"/>
+                                                    <g>
+                                                        <g class="mark-group role-scope" role="graphics-object" aria-roledescription="group mark container">
+                                                            <g transform="translate(0,0)">
+                                                                <path class="background" aria-hidden="true" d="M0,0h96v11h-96Z" pointer-events="none" opacity="1"/>
+                                                                <g>
+                                                                    <g class="mark-symbol role-legend-symbol" pointer-events="none">
+                                                                        <path transform="translate(6,6)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="#28a745" stroke-width="1.5" opacity="1"/>
+                                                                    </g>
+                                                                    <g class="mark-text role-legend-label" pointer-events="none">
+                                                                        <text text-anchor="start" transform="translate(16,9)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">successful</text>
+                                                                    </g>
+                                                                </g>
+                                                                <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none"/>
+                                                            </g>
+                                                            <g transform="translate(0,13)">
+                                                                <path class="background" aria-hidden="true" d="M0,0h96v11h-96Z" pointer-events="none" opacity="1"/>
+                                                                <g>
+                                                                    <g class="mark-symbol role-legend-symbol" pointer-events="none">
+                                                                        <path transform="translate(6,6)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="#dc3545" stroke-width="1.5" opacity="1"/>
+                                                                    </g>
+                                                                    <g class="mark-text role-legend-label" pointer-events="none">
+                                                                        <text text-anchor="start" transform="translate(16,9)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">failed</text>
+                                                                    </g>
+                                                                </g>
+                                                                <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none"/>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                    <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none"/>
+                                                </g>
+                                            </g>
+                                            <g class="mark-text role-legend-title" pointer-events="none">
+                                                <text text-anchor="start" transform="translate(0,9)" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">category</text>
+                                            </g>
+                                        </g>
+                                        <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none"/>
+                                    </g>
+                                </g>
+                            </g>
+                            <path class="foreground" aria-hidden="true" d="" display="none"/>
+                        </g>
+                    </g>
+                </g>
+            </svg>
+        </svgChart>
+        <svgChart>
+            <chartTitle title="playwright-errors' trend"/>
+            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="680" height="518" viewBox="0 0 680 518">
+                <rect width="680" height="518" fill="white"/>
+                <g fill="none" stroke-miterlimit="10" transform="translate(75,14)">
+                    <g class="mark-group role-frame root" role="graphics-object" aria-roledescription="group mark container">
+                        <g transform="translate(0,0)">
+                            <path class="background" aria-hidden="true" d="M0.5,0.5h600v300h-600Z" stroke="#ddd"/>
+                            <g>
+                                <g class="mark-group role-axis" aria-hidden="true">
+                                    <g transform="translate(0.5,0.5)">
+                                        <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none"/>
+                                        <g>
+                                            <g class="mark-rule role-axis-grid" pointer-events="none">
+                                                <line transform="translate(0,300)" x2="600" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(0,270)" x2="600" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(0,240)" x2="600" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(0,210)" x2="600" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(0,180)" x2="600" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(0,150)" x2="600" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(0,120)" x2="600" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(0,90)" x2="600" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(0,60)" x2="600" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(0,30)" x2="600" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(0,0)" x2="600" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                                            </g>
+                                        </g>
+                                        <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none"/>
+                                    </g>
+                                </g>
+                                <g class="mark-group role-axis" role="graphics-symbol" aria-roledescription="axis" aria-label="X-axis titled 'trace filename' for a discrete scale with 23 values: pwt (1).zip, pwt (10).zip, pwt (11).zip, pwt (12).zip, pwt (13).zip, ending with _one.zip">
+                                    <g transform="translate(0.5,300.5)">
+                                        <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none"/>
+                                        <g>
+                                            <g class="mark-rule role-axis-tick" pointer-events="none">
+                                                <line transform="translate(13,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(39,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(65,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(91,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(117,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(143,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(169,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(195,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(221,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(247,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(273,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(300,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(326,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(352,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(378,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(404,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(430,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(456,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(482,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(508,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(534,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(560,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(586,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                                            </g>
+                                            <g class="mark-text role-axis-label" pointer-events="none">
+                                                <text text-anchor="end" transform="translate(12.543478260869604,7) rotate(270) translate(0,5)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">pwt (1).zip</text>
+                                                <text text-anchor="end" transform="translate(38.63043478260873,7) rotate(270) translate(0,5)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">pwt (10).zip</text>
+                                                <text text-anchor="end" transform="translate(64.71739130434786,7) rotate(270) translate(0,5)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">pwt (11).zip</text>
+                                                <text text-anchor="end" transform="translate(90.804347826087,7) rotate(270) translate(0,5)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">pwt (12).zip</text>
+                                                <text text-anchor="end" transform="translate(116.89130434782612,7) rotate(270) translate(0,5)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">pwt (13).zip</text>
+                                                <text text-anchor="end" transform="translate(142.97826086956525,7) rotate(270) translate(0,5)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">pwt (14).zip</text>
+                                                <text text-anchor="end" transform="translate(169.06521739130437,7) rotate(270) translate(0,5)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">pwt (15).zip</text>
+                                                <text text-anchor="end" transform="translate(195.1521739130435,7) rotate(270) translate(0,5)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">pwt (16).zip</text>
+                                                <text text-anchor="end" transform="translate(221.23913043478262,7) rotate(270) translate(0,5)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">pwt (17).zip</text>
+                                                <text text-anchor="end" transform="translate(247.32608695652175,7) rotate(270) translate(0,5)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">pwt (18).zip</text>
+                                                <text text-anchor="end" transform="translate(273.41304347826093,7) rotate(270) translate(0,5)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">pwt (19).zip</text>
+                                                <text text-anchor="end" transform="translate(299.50000000000006,7) rotate(270) translate(0,5)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">pwt (2).zip</text>
+                                                <text text-anchor="end" transform="translate(325.5869565217392,7) rotate(270) translate(0,5)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">pwt (20).zip</text>
+                                                <text text-anchor="end" transform="translate(351.6739130434783,7) rotate(270) translate(0,5)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">pwt (21).zip</text>
+                                                <text text-anchor="end" transform="translate(377.76086956521743,7) rotate(270) translate(0,5)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">pwt (3).zip</text>
+                                                <text text-anchor="end" transform="translate(403.84782608695656,7) rotate(270) translate(0,5)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">pwt (4).zip</text>
+                                                <text text-anchor="end" transform="translate(429.9347826086957,7) rotate(270) translate(0,5)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">pwt (5).zip</text>
+                                                <text text-anchor="end" transform="translate(456.0217391304348,7) rotate(270) translate(0,5)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">pwt (6).zip</text>
+                                                <text text-anchor="end" transform="translate(482.10869565217394,7) rotate(270) translate(0,5)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">pwt (7).zip</text>
+                                                <text text-anchor="end" transform="translate(508.19565217391306,7) rotate(270) translate(0,5)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">pwt (8).zip</text>
+                                                <text text-anchor="end" transform="translate(534.2826086956522,7) rotate(270) translate(0,5)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">pwt (9).zip</text>
+                                                <text text-anchor="end" transform="translate(560.3695652173914,7) rotate(270) translate(0,5)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">_fail_ex.zip</text>
+                                                <text text-anchor="end" transform="translate(586.4565217391305,7) rotate(270) translate(0,5)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">_one.zip</text>
+                                            </g>
+                                            <g class="mark-rule role-axis-domain" pointer-events="none">
+                                                <line transform="translate(0,0)" x2="600" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                                            </g>
+                                            <g class="mark-text role-axis-title" pointer-events="none">
+                                                <text text-anchor="middle" transform="translate(300,196)" font-family="Verdana" font-size="16px" font-weight="bold" fill="#000" opacity="1">trace filename</text>
+                                            </g>
+                                        </g>
+                                        <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none"/>
+                                    </g>
+                                </g>
+                                <g class="mark-group role-axis" role="graphics-symbol" aria-roledescription="axis" aria-label="Y-axis titled '#playwright errors' for a linear scale with values from 0.0 to 1.0">
+                                    <g transform="translate(0.5,0.5)">
+                                        <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none"/>
+                                        <g>
+                                            <g class="mark-rule role-axis-tick" pointer-events="none">
+                                                <line transform="translate(0,300)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(0,270)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(0,240)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(0,210)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(0,180)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(0,150)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(0,120)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(0,90)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(0,60)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(0,30)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                                                <line transform="translate(0,0)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                                            </g>
+                                            <g class="mark-text role-axis-label" pointer-events="none">
+                                                <text text-anchor="end" transform="translate(-7,305)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">0.0</text>
+                                                <text text-anchor="end" transform="translate(-7,275)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">0.1</text>
+                                                <text text-anchor="end" transform="translate(-7,245)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">0.2</text>
+                                                <text text-anchor="end" transform="translate(-7,215)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">0.3</text>
+                                                <text text-anchor="end" transform="translate(-7,185)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">0.4</text>
+                                                <text text-anchor="end" transform="translate(-7,155)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">0.5</text>
+                                                <text text-anchor="end" transform="translate(-7,125)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">0.6</text>
+                                                <text text-anchor="end" transform="translate(-7,95.00000000000001)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">0.7</text>
+                                                <text text-anchor="end" transform="translate(-7,64.99999999999999)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">0.8</text>
+                                                <text text-anchor="end" transform="translate(-7,34.99999999999999)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">0.9</text>
+                                                <text text-anchor="end" transform="translate(-7,5)" font-family="Verdana" font-size="18px" fill="#000" opacity="1">1.0</text>
+                                            </g>
+                                            <g class="mark-rule role-axis-domain" pointer-events="none">
+                                                <line transform="translate(0,300)" x2="0" y2="-300" stroke="#888" stroke-width="1" opacity="1"/>
+                                            </g>
+                                            <g class="mark-text role-axis-title" pointer-events="none">
+                                                <text text-anchor="middle" transform="translate(-54,150) rotate(-90) translate(0,-3)" font-family="Verdana" font-size="16px" font-weight="bold" fill="#000" opacity="1">#playwright errors</text>
+                                            </g>
+                                        </g>
+                                        <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none"/>
+                                    </g>
+                                </g>
+                                <g class="mark-rect role-mark marks" role="graphics-object" aria-roledescription="rect mark container">
+                                    <path aria-label="trace filename: pwt (1).zip; #playwright errors: 0; trace: pwt (1).zip; #errors: 0" role="graphics-symbol" aria-roledescription="bar" d="M1.304347826086996,300h23.478260869565215v0h-23.478260869565215Z" fill="#dc3545"/>
+                                    <path aria-label="trace filename: pwt (10).zip; #playwright errors: 0; trace: pwt (10).zip; #errors: 0" role="graphics-symbol" aria-roledescription="bar" d="M27.391304347826125,300h23.478260869565215v0h-23.478260869565215Z" fill="#dc3545"/>
+                                    <path aria-label="trace filename: pwt (11).zip; #playwright errors: 0; trace: pwt (11).zip; #errors: 0" role="graphics-symbol" aria-roledescription="bar" d="M53.478260869565254,300h23.478260869565215v0h-23.478260869565215Z" fill="#dc3545"/>
+                                    <path aria-label="trace filename: pwt (12).zip; #playwright errors: 0; trace: pwt (12).zip; #errors: 0" role="graphics-symbol" aria-roledescription="bar" d="M79.56521739130439,300h23.478260869565215v0h-23.478260869565215Z" fill="#dc3545"/>
+                                    <path aria-label="trace filename: pwt (13).zip; #playwright errors: 0; trace: pwt (13).zip; #errors: 0" role="graphics-symbol" aria-roledescription="bar" d="M105.65217391304351,300h23.478260869565215v0h-23.478260869565215Z" fill="#dc3545"/>
+                                    <path aria-label="trace filename: pwt (14).zip; #playwright errors: 0; trace: pwt (14).zip; #errors: 0" role="graphics-symbol" aria-roledescription="bar" d="M131.73913043478265,300h23.478260869565215v0h-23.478260869565215Z" fill="#dc3545"/>
+                                    <path aria-label="trace filename: pwt (15).zip; #playwright errors: 0; trace: pwt (15).zip; #errors: 0" role="graphics-symbol" aria-roledescription="bar" d="M157.82608695652178,300h23.478260869565215v0h-23.478260869565215Z" fill="#dc3545"/>
+                                    <path aria-label="trace filename: pwt (16).zip; #playwright errors: 0; trace: pwt (16).zip; #errors: 0" role="graphics-symbol" aria-roledescription="bar" d="M183.9130434782609,300h23.478260869565215v0h-23.478260869565215Z" fill="#dc3545"/>
+                                    <path aria-label="trace filename: pwt (17).zip; #playwright errors: 0; trace: pwt (17).zip; #errors: 0" role="graphics-symbol" aria-roledescription="bar" d="M210.00000000000003,300h23.478260869565215v0h-23.478260869565215Z" fill="#dc3545"/>
+                                    <path aria-label="trace filename: pwt (18).zip; #playwright errors: 0; trace: pwt (18).zip; #errors: 0" role="graphics-symbol" aria-roledescription="bar" d="M236.08695652173915,300h23.478260869565215v0h-23.478260869565215Z" fill="#dc3545"/>
+                                    <path aria-label="trace filename: pwt (19).zip; #playwright errors: 0; trace: pwt (19).zip; #errors: 0" role="graphics-symbol" aria-roledescription="bar" d="M262.1739130434783,300h23.478260869565215v0h-23.478260869565215Z" fill="#dc3545"/>
+                                    <path aria-label="trace filename: pwt (2).zip; #playwright errors: 0; trace: pwt (2).zip; #errors: 0" role="graphics-symbol" aria-roledescription="bar" d="M288.26086956521743,300h23.478260869565215v0h-23.478260869565215Z" fill="#dc3545"/>
+                                    <path aria-label="trace filename: pwt (20).zip; #playwright errors: 0; trace: pwt (20).zip; #errors: 0" role="graphics-symbol" aria-roledescription="bar" d="M314.34782608695656,300h23.478260869565215v0h-23.478260869565215Z" fill="#dc3545"/>
+                                    <path aria-label="trace filename: pwt (21).zip; #playwright errors: 0; trace: pwt (21).zip; #errors: 0" role="graphics-symbol" aria-roledescription="bar" d="M340.4347826086957,300h23.478260869565215v0h-23.478260869565215Z" fill="#dc3545"/>
+                                    <path aria-label="trace filename: pwt (3).zip; #playwright errors: 0; trace: pwt (3).zip; #errors: 0" role="graphics-symbol" aria-roledescription="bar" d="M366.5217391304348,300h23.478260869565215v0h-23.478260869565215Z" fill="#dc3545"/>
+                                    <path aria-label="trace filename: pwt (4).zip; #playwright errors: 0; trace: pwt (4).zip; #errors: 0" role="graphics-symbol" aria-roledescription="bar" d="M392.60869565217394,300h23.478260869565215v0h-23.478260869565215Z" fill="#dc3545"/>
+                                    <path aria-label="trace filename: pwt (5).zip; #playwright errors: 0; trace: pwt (5).zip; #errors: 0" role="graphics-symbol" aria-roledescription="bar" d="M418.69565217391306,300h23.478260869565215v0h-23.478260869565215Z" fill="#dc3545"/>
+                                    <path aria-label="trace filename: pwt (6).zip; #playwright errors: 0; trace: pwt (6).zip; #errors: 0" role="graphics-symbol" aria-roledescription="bar" d="M444.7826086956522,300h23.478260869565215v0h-23.478260869565215Z" fill="#dc3545"/>
+                                    <path aria-label="trace filename: pwt (7).zip; #playwright errors: 0; trace: pwt (7).zip; #errors: 0" role="graphics-symbol" aria-roledescription="bar" d="M470.8695652173913,300h23.478260869565215v0h-23.478260869565215Z" fill="#dc3545"/>
+                                    <path aria-label="trace filename: pwt (8).zip; #playwright errors: 0; trace: pwt (8).zip; #errors: 0" role="graphics-symbol" aria-roledescription="bar" d="M496.95652173913044,300h23.478260869565215v0h-23.478260869565215Z" fill="#dc3545"/>
+                                    <path aria-label="trace filename: pwt (9).zip; #playwright errors: 0; trace: pwt (9).zip; #errors: 0" role="graphics-symbol" aria-roledescription="bar" d="M523.0434782608696,300h23.478260869565215v0h-23.478260869565215Z" fill="#dc3545"/>
+                                    <path aria-label="trace filename: _fail_ex.zip; #playwright errors: 1; trace: _fail_ex.zip; #errors: 1" role="graphics-symbol" aria-roledescription="bar" d="M549.1304347826087,0h23.478260869565215v300h-23.478260869565215Z" fill="#dc3545"/>
+                                    <path aria-label="trace filename: _one.zip; #playwright errors: 0; trace: _one.zip; #errors: 0" role="graphics-symbol" aria-roledescription="bar" d="M575.2173913043479,300h23.478260869565215v0h-23.478260869565215Z" fill="#dc3545"/>
+                                </g>
+                            </g>
+                            <path class="foreground" aria-hidden="true" d="" display="none"/>
+                        </g>
+                    </g>
+                </g>
+            </svg>
+        </svgChart>
+    </svgCharts>
+</playwrightTraceMetricsReport>

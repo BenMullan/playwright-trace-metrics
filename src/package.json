@@ -1,0 +1,26 @@
+{
+  "name": "playwright-trace-metrics",
+  "version": "0.1.0",
+  "description": "aggregates metrics from several playwright trace zips, into a html report",
+  "main": "main.ts",
+  "type": "module",
+  "scripts": {
+    "start": "npx tsx main.ts --help"
+  },
+  "author": "Ben Mullan (c) 2025",
+  "dependencies": {
+    "es-main": "^1.3.0",
+    "jszip": "^3.10.1",
+    "tracer": "^1.3.0",
+    "tsx": "^4.19.3",
+    "vega": "^6.2.0",
+    "vega-lite": "^6.4.1",
+    "xmlbuilder2": "^4.0.3",
+    "xslt-processor": "^3.4.0",
+    "yargs": "^18.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "@types/yargs": "^17.0.35"
+  }
+}
