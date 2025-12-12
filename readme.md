@@ -1,14 +1,16 @@
 # playwright-trace-metrics
 ...ingests a folder of [playwright](https://github.com/microsoft/playwright?tab=readme-ov-file#examples) trace files, computes aggregated statistics from 'em, and outputs an `xml` (raw data) and `htm` (visualised) report!<br/><br/>
 
-<img alt="ui-screenshot" src="https://raw.githubusercontent.com/BenMullan/playwright-trace-metrics/master/docs/images/htm-report.png" width="100%" />
-
+## Par exemple:
+Invoking...
 ```
 npx tsx main.ts --playwright-traces-dir="./traces/" --output-file-base="../ptm-report"
 ```
+...yields...
+<img alt="ui-screenshot" src="https://raw.githubusercontent.com/BenMullan/playwright-trace-metrics/master/docs/images/htm-report.png" width="100%" />
 
 ## How it worketh...
-in-memory extraction
+- in-memory extraction
 sample [ptm-report.xml](https://github.com/BenMullan/playwright-trace-metrics/blob/main/docs/ptm-report.xml)
 a [xsl transformation](https://github.com/BenMullan/playwright-trace-metrics/blob/main/src/report-template.xsl)
 
