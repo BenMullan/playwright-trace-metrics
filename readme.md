@@ -1,5 +1,5 @@
 # playwright-trace-metrics
-...ingests a folder of [playwright](https://github.com/microsoft/playwright?tab=readme-ov-file#examples) trace files, computes aggregated statistics from 'em, and outputs an `xml` (raw data) and `htm` (visualised) report!
+...ingests a folder of [playwright](https://github.com/microsoft/playwright?tab=readme-ov-file#examples) trace files, computes aggregated statistics from 'em, and outputs an `xml` (raw data) and `htm` (visualised) report!<br/><br/>
 
 <img alt="ui-screenshot" src="https://raw.githubusercontent.com/BenMullan/playwright-trace-metrics/master/docs/images/htm-report.png" width="100%" />
 
