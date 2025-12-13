@@ -6,15 +6,16 @@ _Invoking..._
 ```
 npx tsx main.ts --playwright-traces-dir="./traces/" --output-file-base="../ptm-report"
 ```
-_...yields..._<br/>
+_...yields..._
+<br/><br/>
 <img alt="ui-screenshot" src="https://raw.githubusercontent.com/BenMullan/playwright-trace-metrics/master/docs/images/htm-report.png" width="100%" />
 <br/><br/>
 
 ## How it worketh...
 - trace zips sequentially unpacked in-memory (no extraction to disk), and [parsed for trace + network events](https://github.com/BenMullan/playwright-trace-metrics/blob/a89ef2ef350018703b98a4503141089a0c858820/src/logic/ptm-logic.ts#L159)
 - individual traces' metrics [aggregated together](https://github.com/BenMullan/playwright-trace-metrics/blob/a89ef2ef350018703b98a4503141089a0c858820/src/logic/ptm-logic.ts#L81)
-- [SVG visualisations generated](https://github.com/BenMullan/playwright-trace-metrics/blob/a89ef2ef350018703b98a4503141089a0c858820/src/logic/ptm-graphing.ts#L64), and combined with individual + aggregated trace data, into a [ptm-report.xml](https://github.com/BenMullan/playwright-trace-metrics/blob/main/docs/ptm-report.xml)
-- resultant `xml` put through an [xsl transformation](https://github.com/BenMullan/playwright-trace-metrics/blob/main/src/report-template.xsl), to produce a [ptm-report.htm](https://github.com/BenMullan/playwright-trace-metrics/blob/main/docs/ptm-report.htm)
+- [SVG visualisations generated](https://github.com/BenMullan/playwright-trace-metrics/blob/a89ef2ef350018703b98a4503141089a0c858820/src/logic/ptm-graphing.ts#L64), and combined with individual + aggregated trace data, into a [ptm-report.xml](https://github.com/BenMullan/playwright-trace-metrics/blob/master/docs/ptm-report.xml)
+- resultant `xml` put through an [xsl transformation](https://github.com/BenMullan/playwright-trace-metrics/blob/master/src/report-template.xsl), to produce a [ptm-report.htm](https://github.com/BenMullan/playwright-trace-metrics/blob/master/docs/ptm-report.htm)
 <br/><br/>
 
 ## To use this software...
