@@ -25,19 +25,19 @@ _...yields..._
 <br/><br/>
 
 ## What's inside...
-Command-line invocation
+**Command-line invocation**
 <img alt="ui-screenshot" src="https://raw.githubusercontent.com/BenMullan/playwright-trace-metrics/master/docs/images/cl-invoccation.png" width="100%" />
 <br/><br/>
 
-`xml` output
+**`xml` output**
 <img alt="ui-screenshot" src="https://raw.githubusercontent.com/BenMullan/playwright-trace-metrics/master/docs/images/xml-output.png" width="100%" />
 <br/><br/>
 
-`xsl` transformation
+**`xsl` transformation**
 <img alt="ui-screenshot" src="https://raw.githubusercontent.com/BenMullan/playwright-trace-metrics/master/docs/images/xsl-layer.png" width="100%" />
 <br/><br/>
 
-Codebase
+**Codebase**
 <img alt="ui-screenshot" src="https://raw.githubusercontent.com/BenMullan/playwright-trace-metrics/master/docs/images/code-scrnsht.png" width="100%" />
 <br/><br/>
 
