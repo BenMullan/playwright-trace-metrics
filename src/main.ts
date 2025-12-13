@@ -17,7 +17,7 @@ import esMain           from "es-main";
 
     high-level...
         - parse the command-line arguments
-        - read data from all playwright trace-zip files in specified dir
+        - read all playwright trace-zip files in specified dir
         - serialise collected data to xml, & save to disk
         - use xslt to generate html report from xml file
 
